@@ -2,7 +2,7 @@
 
 This is the companion code for the self-supervised anomaly detection algorithm proposed in the paper
 Detecting Anomalies within Time Series using Local Neural Transformations by Tim Schneider et al. The paper can
-be found here http://arxiv.org/abs/xxxx.xxxx. Please cite the
+be found here [https://arxiv.org/pdf/2202.03944]. Please cite the
 above paper when reporting, reproducing or extending the results.
 
 We develop a new method to detect anomalies within time series, which is essential in many application domains, reaching from self-driving cars, finance, and marketing to medical diagnosis and epidemiology.
